@@ -1,0 +1,282 @@
+{
+  "meta": {
+    "title": "Mehul Singh - Founder & Chief Architect, Eigient",
+    "description": "Mehul Singh, Founder & Chief Architect of Eigient. Computational systems built from first principles.",
+    "wordmark": "Mehul Singh"
+  },
+  "nav": [
+    {
+      "label": "Profile",
+      "href": "#profile"
+    },
+    {
+      "label": "Eigient",
+      "href": "#eigient"
+    },
+    {
+      "label": "Work",
+      "href": "#work"
+    },
+    {
+      "label": "Endorsements",
+      "href": "#endorsements"
+    },
+    {
+      "label": "Background",
+      "href": "#background"
+    },
+    {
+      "label": "Contact",
+      "href": "#contact"
+    }
+  ],
+  "sections": [
+    {
+      "id": "profile",
+      "enabled": true
+    },
+    {
+      "id": "perspective",
+      "enabled": true
+    },
+    {
+      "id": "eigient",
+      "enabled": true
+    },
+    {
+      "id": "work",
+      "enabled": true,
+      "limit": 3
+    },
+    {
+      "id": "endorsements",
+      "enabled": true,
+      "limit": 4
+    },
+    {
+      "id": "background",
+      "enabled": true,
+      "credentials_limit": 4
+    },
+    {
+      "id": "contact",
+      "enabled": true
+    }
+  ],
+  "profile": {
+    "role": "Founder & Chief Architect, Eigient",
+    "headline": "Computational systems, built from first principles.",
+    "summary": [
+      "Mehul Singh is a systems architect and the founder of Eigient, a private laboratory working at the intersection of computational physics, artificial intelligence and algorithmic engineering.",
+      "His work is characterised by a refusal to assemble from off-the-shelf parts. He takes a problem down to its base assumptions and rebuilds it so that the structure, the mathematics and the execution hold together under load — an approach that has produced an operating system kernel, a distributed storage platform, a deep-learning framework and a scheduler-based entropy engine, each written from the ground up."
+    ],
+    "facts": [
+      {
+        "label": "Role",
+        "value": "Founder & Chief Architect"
+      },
+      {
+        "label": "Venture",
+        "value": "Eigient",
+        "url": "https://eigient.com"
+      },
+      {
+        "label": "Focus",
+        "value": "Systems architecture, AI, high-performance computing"
+      },
+      {
+        "label": "Based in",
+        "value": "Jaipur, India"
+      }
+    ]
+  },
+  "perspective": {
+    "label": "Perspective",
+    "quote": "A system is only as sound as the assumption it rests on. I would rather spend a month finding that assumption than a year building on the wrong one.",
+    "attribution": "Mehul Singh"
+  },
+  "eigient": {
+    "label": "Eigient",
+    "name": "Eigient",
+    "url": "https://eigient.com",
+    "status": "In stealth",
+    "established": "2026",
+    "description": "Eigient is a research laboratory advancing computational physics, artificial intelligence and algorithmic engineering. The programme is unannounced; its first system is in build. As founder and chief architect, Mehul sets the technical direction and leads the design of its core systems.",
+    "cta": "Enquiries"
+  },
+  "work": {
+    "label": "Record of work",
+    "intro": "A selection of systems built end to end. The full engineering portfolio is maintained separately.",
+    "portfolio_url": "https://mehul.engineer",
+    "items": [
+      {
+        "title": "BBRES-RNG entropy engine",
+        "outcome": "Scheduler-nondeterminism entropy source for CSPRNG seeding; 7.999952 of 8.0 bits Shannon entropy, passed NIST SP 800-22 and adversarial machine-learning attack.",
+        "year": "2025",
+        "url": "https://mehul.engineer/articles/article.html?id=sys-eng%2F001"
+      },
+      {
+        "title": "Secure-by-design operating system",
+        "outcome": "Founder and lead systems engineer of an open-source kernel: pre-emptive scheduling, memory management and bare-metal execution.",
+        "year": "Ongoing",
+        "url": "https://os.evolves.cc"
+      },
+      {
+        "title": "Inpherra",
+        "outcome": "A deep-learning framework written from scratch in Rust — tensors, computational graphs, automatic differentiation and optimisers.",
+        "year": "Ongoing"
+      },
+      {
+        "title": "yourNode",
+        "outcome": "End-to-end encrypted, serverless remote access to one's own machine, with no third-party storage.",
+        "year": "Ongoing"
+      }
+    ]
+  },
+  "endorsements": {
+    "label": "Endorsements",
+    "items": [
+      {
+        "quote": "I would place Mehul among the top 5% of students I have encountered in terms of analytical ability and research potential.",
+        "name": "Dr. Krishna Kant Pandey",
+        "credential": "Ph.D., NIT Rourkela",
+        "source": "Letter of recommendation",
+        "url": "https://workdrive.zohoexternal.in/file/6o2138a0855331bc942ae8316e1af11660433"
+      },
+      {
+        "quote": "He has a deep understanding of LLMs, software architecture and drives methodical, data-backed innovation.",
+        "name": "Suraj Prakash",
+        "credential": "Former CEO, TEXMiN Foundation, IIT (ISM) Dhanbad",
+        "source": "LinkedIn",
+        "url": "https://www.linkedin.com/in/mehulengineer/details/recommendations/"
+      },
+      {
+        "quote": "He considers architecture, usability, scalability and the broader implications of technical decisions rather than focusing solely on functionality.",
+        "name": "Dr. Shishir Singh Chauhan",
+        "credential": "Ph.D., NIT Jamshedpur",
+        "source": "Letter of recommendation",
+        "url": "https://workdrive.zohoexternal.in/file/6o21315becb59037241efbc7cc4360a8982f4"
+      },
+      {
+        "quote": "In my decade-long teaching career, I have rarely encountered an undergraduate student with his level of insight.",
+        "name": "Raghuvesh Tiwari",
+        "credential": "M.Tech., Rajasthan Technical University",
+        "source": "LinkedIn",
+        "url": "https://www.linkedin.com/in/mehulengineer/details/recommendations/"
+      },
+      {
+        "quote": "What distinguishes Mehul is his ability to combine conceptual depth with practical system-building skills.",
+        "name": "Dr. Surbhi Sharma",
+        "credential": "Ph.D., Banasthali Vidyapith",
+        "source": "Letter of recommendation",
+        "url": "https://workdrive.zohoexternal.in/file/6o2136319fe842ba34ba2bf7b9f1d342f8d81"
+      },
+      {
+        "quote": "He stands out for his research-oriented mindset, focusing on fundamental understanding rather than superficial solutions.",
+        "name": "Dr. Ankur Soam",
+        "credential": "Ph.D. IIT Bombay, M.Tech. IIT Delhi",
+        "source": "Letter of recommendation",
+        "url": "https://workdrive.zohoexternal.in/file/6o2136425bf90b43e4524bcfda0984b158b5f"
+      },
+      {
+        "quote": "I'd comfortably place him in the top 5% of undergraduates I've taught in terms of research potential and technical initiative.",
+        "name": "Dr. Dinesh Sharma",
+        "credential": "Ph.D., Uttarakhand Technical University",
+        "source": "LinkedIn",
+        "url": "https://www.linkedin.com/in/mehulengineer/details/recommendations/"
+      }
+    ]
+  },
+  "background": {
+    "label": "Background",
+    "appointments": [
+      {
+        "period": "2026",
+        "role": "Research Intern",
+        "org": "TEXMiN Foundation, IIT (ISM) Dhanbad",
+        "note": "Applied NLP research: a domain-specific tokenizer for mining and geological text.",
+        "url": "https://workdrive.zohoexternal.in/file/1x2642e03f13414404f539954bd93981f0f57"
+      },
+      {
+        "period": "2024 – present",
+        "role": "B.Tech., Computer Science & Engineering",
+        "org": "Manipal University Jaipur",
+        "note": "Dean's List 2024. Student Excellence Award 2025."
+      }
+    ],
+    "credentials": [
+      {
+        "name": "Quantum Machine Learning",
+        "issuer": "IBM",
+        "year": "2026",
+        "url": "https://www.credly.com/badges/baf74a03-e53a-48c2-bc41-648356cdeb9d/public_url"
+      },
+      {
+        "name": "Integrating Quantum and High-Performance Computing",
+        "issuer": "IBM",
+        "year": "2026",
+        "url": "https://www.credly.com/badges/0730fc78-f4b3-45bd-9c4c-c280f98f08ac/public_url"
+      },
+      {
+        "name": "Algorithms",
+        "issuer": "Stanford Online",
+        "year": "2026",
+        "url": "https://www.coursera.org/account/accomplishments/specialization/7079FMBTJEXD"
+      },
+      {
+        "name": "Multicore and GPGPU Programming",
+        "issuer": "BITS Pilani",
+        "year": "2026",
+        "url": "https://www.coursera.org/account/accomplishments/verify/WJ1JZGBEMOXS"
+      },
+      {
+        "name": "Operating Systems",
+        "issuer": "BITS Pilani",
+        "year": "2026",
+        "url": "https://www.coursera.org/account/accomplishments/verify/4YWVQGKSY7AX"
+      },
+      {
+        "name": "Automata and Computability",
+        "issuer": "BITS Pilani",
+        "year": "2026",
+        "url": "https://www.coursera.org/account/accomplishments/verify/YS702E8EAZYY"
+      },
+      {
+        "name": "Mathematics for Machine Learning and Data Science",
+        "issuer": "DeepLearning.AI",
+        "year": "2026",
+        "url": "https://www.deeplearning.ai/certificates/b47cd336-ce00-43bd-a254-bcb678769197"
+      }
+    ],
+    "expertise": [
+      "Operating systems",
+      "Distributed systems",
+      "Concurrency and parallel computing",
+      "High-performance and GPU computing",
+      "Deep learning and automatic differentiation",
+      "Natural-language processing",
+      "Cryptography and secure protocols"
+    ],
+    "languages": "Rust, Java, Python, C"
+  },
+  "contact": {
+    "label": "Contact",
+    "lead": "For enquiries from founders, researchers, institutions and investors.",
+    "email": "contact@mehulsingh.in",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://linkedin.com/in/mehulengineer"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/mehul-engineer"
+      },
+      {
+        "label": "Engineering portfolio",
+        "url": "https://mehul.engineer"
+      }
+    ],
+    "location": "Jaipur, Rajasthan, India"
+  }
+}
