@@ -67,8 +67,8 @@
     "role": "Founder & Chief Architect, Eigient",
     "headline": "Computational systems, built from first principles.",
     "summary": [
-      "Mehul Singh is a systems architect and the founder of Eigient, a private laboratory working at the intersection of computational physics, artificial intelligence and algorithmic engineering.",
-      "His work is characterised by a refusal to assemble from off-the-shelf parts. He takes a problem down to its base assumptions and rebuilds it so that the structure, the mathematics and the execution hold together under load — an approach that has produced an operating system kernel, a distributed storage platform, a deep-learning framework and a scheduler-based entropy engine, each written from the ground up."
+      "I am a systems architect and the founder of Eigient, a firm working at the intersection of computational physics, artificial intelligence and algorithmic engineering.",
+      "My work is characterised by a refusal to assemble from off-the-shelf parts. I takes a problem down to its base assumptions and rebuild it so that the structure, the mathematics and the execution hold together under load"
     ],
     "facts": [
       {
@@ -101,7 +101,7 @@
     "url": "https://eigient.com",
     "status": "In stealth",
     "established": "2026",
-    "description": "Eigient is a research laboratory advancing computational physics, artificial intelligence and algorithmic engineering. The programme is unannounced; its first system is in build. As founder and chief architect, Mehul sets the technical direction and leads the design of its core systems.",
+    "description": "Eigient is a research laboratory advancing computational physics, artificial intelligence and algorithmic engineering. As founder and chief architect, I set the technical direction and leads the design of its core systems.",
     "cta": "Enquiries"
   },
   "work": {
@@ -123,7 +123,7 @@
       },
       {
         "title": "Inpherra",
-        "outcome": "A deep-learning framework written from scratch in Rust — tensors, computational graphs, automatic differentiation and optimisers.",
+        "outcome": "A deep-learning framework written from scratch in Rust - tensors, computational graphs, automatic differentiation and optimisers.",
         "year": "Ongoing"
       },
       {
